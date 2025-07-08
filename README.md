@@ -73,25 +73,20 @@ Steps to delete images from your dataset/folder on disk. This can be used with a
 ### Step 1: Select Images to Delete
 Click the orange box on the top right of the image you want to delete.
 
-![Step 1](./Misc/Step_1.png)
 
 ### Step 2: Open the Browse Operations Menu
 Click the 'Browse Operations' button as shown in the image below.
 
-![Step 2](./Misc/Step_2.png)
 
 ### Step 3: Search for 'Delete Selected Samples'
 In the search bar that appears, type 'Delete Selected Samples' and select it.
 
-![Step 3](./Misc/Step_3.png)
 
 ### Step 4: Execute the Deletion
 Click 'Execute' to delete the selected images.
 
-![Step 4](./Misc//Step_4.png)
 
 ### Step 5: Terminate the Session
 Open the terminal where you ran the script and press `CTRL + C` to kill the session. The images will be automatically deleted from your dataset/folder.
 
-![Step 5](./Misc/Step_5.png)
 
